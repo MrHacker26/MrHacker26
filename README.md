@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarun Joshi
 - 👀 I’m interested in web/soft development.
-- 🌱 I’m currently learning mern stack.
+- 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on some good projects.
 - 📫 I want to learn everything. (●'◡'●)
 
