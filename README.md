@@ -20,7 +20,7 @@ Turning ideas into reality with modern web technologies.
 ### 📫 Contact
 - **Email**: tjocz26@gmail.com
 - **GitHub**: [MrHacker26](https://github.com/MrHacker26)
-- **LinkedIn**: [Tarun Joshi](https://www.linkedin.com/in/tarun-joshi)
+- **LinkedIn**: [Tarun Joshi](https://www.linkedin.com/in/tarun-joshi26)
 
 ---
 
