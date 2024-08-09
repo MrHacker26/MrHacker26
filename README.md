@@ -7,8 +7,8 @@ Turning ideas into reality with modern web technologies.
 ---
 
 ### 🚀 Current Projects
-- **Frontend**: React, Next.js, Tailwind CSS, Shadcn UI
-- **Backend**: NestJS, Express.js
+- **Frontend**: React, Next.js, Tailwind CSS, Shadcn UI, AntD
+- **Backend**: NestJS, Express.js, Redis
 - **Languages**: TypeScript, JavaScript, Python, Java
 
 ### 🌱 Learning
@@ -28,7 +28,7 @@ Turning ideas into reality with modern web technologies.
 <p align="center">
   <div align="center">
     <br></br>
-    <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,express,nest,next,nodejs,mongodb,npm,pnpm,vscode"/>
+    <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,express,nest,next,nodejs,mongodb,npm,pnpm,vscode,vim"/>
     <br></br>
     <img src="https://skillicons.dev/icons?i=neovim,linux,bash,git,docker,kubernetes,gcp"/>
   </div>
