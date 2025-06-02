@@ -15,9 +15,10 @@ Turning ideas into reality with modern web technologies.
 - **Databases**: MongoDB, PostgreSQL, MySQL, Redis
 - **DevOps**: AWS, Docker, Nginx, Git, GitHub Actions, CI/CD
 
-### 🌱 Learning
-- Deepening TypeScript knowledge and exploring ts-rest.
-- Working on BVM - Bun Version Manager CLI tool to manage multiple versions of Bun,
+### 🌱 Currently Working On
+- 🔐 **PKCE Generator** - Building a secure online tool to generate OAuth 2.0 code challenge and verifier pairs for enhanced security
+- ⚡ **BVM Enhancement** - Adding advanced features to Bun Version Manager CLI tool
+- 📚 **Learning** - Deepening TypeScript knowledge and exploring ts-rest for better API development
 
 ### 🤝 Open to Collaborations
 - Excited to work on innovative projects and open-source contributions.
