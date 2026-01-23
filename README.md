@@ -16,9 +16,10 @@ Turning ideas into reality with modern web technologies.
 - **DevOps**: AWS, Docker, Nginx, Git, GitHub Actions, CI/CD
 
 ### 🌱 Currently Working On
-- 🔐 **PKCE Generator** - Building a secure online tool to generate OAuth 2.0 code challenge and verifier pairs for enhanced security
+- 🔳 **Better-QR** - Building a modern, developer-first platform for generating and managing permanent QR codes
+- 🔐 **PKCE Generator** - A secure online tool to generate OAuth 2.0 code challenge and verifier pairs
 - ⚡ **BVM Enhancement** - Adding advanced features to Bun Version Manager CLI tool
-- 📚 **Learning** - Deepening TypeScript knowledge and exploring ts-rest for better API development
+- 📚 **Learning** - TypeScript internals
 
 ### 🤝 Open to Collaborations
 - Excited to work on innovative projects and open-source contributions.
