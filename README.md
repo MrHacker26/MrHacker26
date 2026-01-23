@@ -10,7 +10,7 @@ Turning ideas into reality with modern web technologies.
 
 ### 💼 Tech Arsenal
 - **Frontend**: React, Next.js, Vite, HTML, CSS, Tailwind CSS, Ant Design, ShadCN
-- **Backend**: Node.js, Bun, NestJs, tRPC, RESTful APIs, Prisma, Typegoose
+- **Backend**: Node.js, Bun, Hono, NestJs, tRPC, RESTful APIs, Prisma, Drizzle ORM, Typegoose
 - **Languages**: TypeScript, JavaScript, Python, Java
 - **Databases**: MongoDB, PostgreSQL, MySQL, Redis
 - **DevOps**: AWS, Docker, Nginx, Git, GitHub Actions, CI/CD
