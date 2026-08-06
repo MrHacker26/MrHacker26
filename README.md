@@ -1,67 +1,49 @@
-# Hi there, I'm Tarun Joshi 👋
-[![Profile Views](https://komarev.com/ghpvc/?username=mrhacker26&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MrHacker26)
+# Hi, I'm Tarun Joshi 👋
 
+Full Stack Developer from India building scalable web apps, developer tools, and mobile products.
 
-### 🚀 Full Stack Developer | Open Source Enthusiast | India
-
-Turning ideas into reality with modern web technologies.
+I enjoy working with TypeScript ecosystems, modern React frameworks, backend architecture, and open-source tooling.
 
 ---
 
-### 💼 Tech Arsenal
-- **Frontend**: React, Next.js, Vite, HTML, CSS, Tailwind CSS, Ant Design, ShadCN
-- **Backend**: Node.js, Bun, Hono, NestJs, tRPC, RESTful APIs, Prisma, Drizzle ORM, Typegoose
-- **Languages**: TypeScript, JavaScript, Python, Java
-- **Databases**: MongoDB, PostgreSQL, MySQL, Redis
-- **DevOps**: AWS, Docker, Nginx, Git, GitHub Actions, CI/CD
+## 🚀 Featured Projects
 
-### 🌱 Currently Working On
-- 🔳 **Better-QR** - Building a modern, developer-first platform for generating and managing permanent QR codes
-- 🔐 **PKCE Generator** - A secure online tool to generate OAuth 2.0 code challenge and verifier pairs
-- ⚡ **BVM Enhancement** - Adding advanced features to Bun Version Manager CLI tool
-- 📚 **Learning** - TypeScript internals
+### [⚡ BVM (Bun Version Manager)](https://github.com/MrHacker26/bvm)
+CLI tool for managing multiple Bun versions easily.
 
-### 🤝 Open to Collaborations
-- Excited to work on innovative projects and open-source contributions.
+### [🎮 RumbleX](https://www.rumblex.app/)
+Native iOS cloud gaming browser with controller haptics support. Launching soon on the App Store.
 
-### 📫 Contact
-- **Email**: tjocz26@gmail.com
-- **GitHub**: [MrHacker26](https://github.com/MrHacker26)
-- **LinkedIn**: [Tarun Joshi](https://www.linkedin.com/in/tarun-joshi26)
-
----
-### 🛠️ Languages and Tools
-<img src="https://skillicons.dev/icons?i=typescript,react,tailwind,express,nest,next,nodejs,mongodb,npm,pnpm,vscode,vim"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=neovim,linux,bash,git,docker,kubernetes,gcp"/>
+### [🧊 Refridz](https://play.google.com/store/apps/details?id=com.refridz.app)
+Mobile app that helps users track product expiry dates using OCR.
 
 ---
 
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mrhacker26&show_icons=true&theme=radical" alt="GitHub Stats" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhacker26&theme=radical" alt="GitHub Streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhacker26&layout=compact&theme=radical" alt="Top Languages" />
+## 🛠️ Tech Stack
+
+**Frontend**
+- TypeScript, React, Next.js, React Native, Expo
+- Tailwind CSS, shadcn/ui
+
+**Backend**
+- Node.js, Bun, Hono, NestJS
+- tRPC, REST APIs
+
+**Database & Infra**
+- PostgreSQL, MongoDB, Redis
+- Prisma, Drizzle ORM
+- Docker, Nginx, GitHub Actions
 
 ---
 
-## 🏆 Achievements & Contributions
+## 📌 Currently Exploring
 
-- 🎉 **Open Source Contributor**: Building tools that benefit the developer community
-- 🚀 **BVM Creator**: Solving real-world problems for Bun developers
-- 💻 **Full Stack Expertise**: From pixel-perfect UIs to scalable backend systems
-- 🌐 **Community Builder**: Sharing knowledge and helping fellow developers
-
----
-## 🤝 Let's Connect
-
-
-[![Email](https://img.shields.io/badge/-tjocz26@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tjocz26@gmail.com)
-[![GitHub](https://img.shields.io/badge/-MrHacker26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrHacker26)
-[![LinkedIn](https://img.shields.io/badge/-Tarun_Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-joshi26)
-
+- TypeScript internals
+- AI-powered developer tools
+- Scalable backend architectures
 
 ---
 
-Feel free to explore my repos and reach out for any collaboration or queries!
+## 🤝 Connect
+
+[GitHub](https://github.com/MrHacker26) · [LinkedIn](https://linkedin.com/in/tarun-joshi26) · [Email](mailto:tjocz26@gmail.com)
