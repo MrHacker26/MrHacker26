@@ -14,6 +14,9 @@ CLI tool for managing multiple Bun versions easily.
 ### [🎮 RumbleX](https://www.rumblex.app/)
 Native iOS cloud gaming browser with controller haptics support. Launching soon on the App Store.
 
+### [📸 Framewiser](https://www.framewise.pics/)
+A quieter photography coach for iPhone. Live composition guidance, plus thoughtful photographic looks including Mono, Cinematic, Film, Noir, and Framewise.
+
 ### [🧊 Refridz](https://play.google.com/store/apps/details?id=com.refridz.app)
 Mobile app that helps users track product expiry dates using OCR.
 
