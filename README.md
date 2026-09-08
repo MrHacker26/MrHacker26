@@ -17,8 +17,8 @@ Native iOS cloud gaming browser with controller haptics support. Launching soon 
 ### [📸 Framewiser](https://www.framewise.pics/)
 A quieter photography coach for iPhone. Live composition guidance, plus thoughtful photographic looks including Mono, Cinematic, Film, Noir, and Framewise.
 
-### [🧊 Refridz](https://play.google.com/store/apps/details?id=com.refridz.app)
-Mobile app that helps users track product expiry dates using OCR.
+### [🧊 Refridz](https://apps.apple.com/in/app/refridz/id6794398423)
+Mobile app that helps users track product expiry dates using OCR. Live on the [App Store](https://apps.apple.com/in/app/refridz/id6794398423) and [Google Play](https://play.google.com/store/apps/details?id=com.refridz.app).
 
 ---
 
